@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    background-color: rgb(255, 181, 71);
+}
+.sh{
+    width: 85%px;
+    height: 400px;
+    float: right;
+}
+.menu{
+    background-color: rgb(45, 89, 232);
+    width: 200px;
+    height: 500px;
+    float: left;
+    transition: all 0.3s linear;
+}
+.menu:hover{
+    color: rgb(30, 255, 0);
+}
+.pic{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.rt{
+    height: 500px;
+width: 500px;
+margin-left:900px ;
+border: 3px solid black;
+
+}
+.ots{
+    margin-left: 1100px;
+    transition: all 0.3s linear;
+}
+.ots:hover{
+font-size: 30px;
+}
+.hz{
+    transition: all 0.3s linear;
+}
+.hz:hover{
+    font-size: 30px;
+}
+.gif{
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+}
